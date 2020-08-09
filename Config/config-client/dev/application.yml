@@ -2,7 +2,7 @@ data:
   env: config-prod
   user:
     username: client-4444444444
-    password: 76876867876
+    password: 54353534543
 
 server:
   port: 3302
