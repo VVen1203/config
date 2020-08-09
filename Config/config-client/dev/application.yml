@@ -23,12 +23,12 @@ spring:
       refresh:
         enabled: true
   kafka:
-    bootstrap-servers: localhost:9092
+    bootstrap-servers: 47.93.184.44:9092
 
 eureka:
   client:
     serviceUrl:
-      defaultZone: http://localhost:8761/eureka/
+      defaultZone: http://47.93.184.44:8761/eureka/
 
   instance:
     prefer-ip-address: true #以IP地址注册到服务中心
