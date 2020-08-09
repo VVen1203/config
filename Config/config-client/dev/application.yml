@@ -16,8 +16,8 @@ management:
         include: '*'
 
 spring:
-#  profiles:
-#    include: test
+  profiles:
+    include: test
   cloud:
     bus:
       refresh:
