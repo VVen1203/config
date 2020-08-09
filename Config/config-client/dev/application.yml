@@ -1,8 +1,8 @@
 data:
   env: config-prod
   user:
-    username: client-user
-    password: 1234567
+    username: client-user11111
+    password: 12345671111
 
 server:
   port: 3302
