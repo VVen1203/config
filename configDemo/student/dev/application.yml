@@ -40,3 +40,7 @@ eureka:
 logging:
   level:
     root: info
+    com:
+      example:
+        student:
+          mapper: debug
